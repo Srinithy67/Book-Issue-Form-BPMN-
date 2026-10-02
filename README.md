@@ -38,12 +38,12 @@ The book details were submitted through Tasklist (**Submit Book Request**), then
 
 ### BPMN Process
 
-![BPMN Process](Downloads/bpmn-process.png)
+![BPMN Process](screenshots/bpmn-process.png)
 
 ### Tasklist Form
 
-![Tasklist Form](Downloads/tasklist-form.png)
+![Tasklist Form](screenshots/tasklist-form.png)
 
 ### Completed Process
 
-![Completed Process](Downloads/completed-process.png)
+![Completed Process](screenshots/completed-process.png)
