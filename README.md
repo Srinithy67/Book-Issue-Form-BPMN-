@@ -42,7 +42,7 @@ The book details were submitted through Tasklist (**Submit Book Request**), then
 
 ### Tasklist Form
 
-![Tasklist Form](screenshots/tasklist-form copy.png)
+![Tasklist Form](screenshots/tasklist-form.png)
 
 ### Completed Process
 
